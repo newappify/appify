@@ -5,7 +5,7 @@
 //profile-web-page-url: https://aidenweb.ir
 #attention! do not use p1 and p2 in more than two configs otherwise confilicts may occure
 #ifpm is about mode we have currently 6 modes. 
-warp://i620HUs7-G13LhV24-E82s5pe3@162.159.192.103:946?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#appify1&&detour=warp://auto6?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m3#appify2
-warp://i620HUs7-G13LhV24-E82s5pe3@auto6?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#appify3&&detour=warp://auto6?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m3#appify4
-warp://i620HUs7-G13LhV24-E82s5pe3@auto6?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#appify5&&detour=warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m3#appify6
-warp://i620HUs7-G13LhV24-E82s5pe3@auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#appify7&&detour=warp://auto6?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m3#appify8
+warp://162.159.192.103:946?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#appify1&&detour=warp://auto6?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m3#appify2
+warp://auto6?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#appify3&&detour=warp://auto6?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m3#appify4
+warp://auto6?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#appify5&&detour=warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m3#appify6
+warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#appify7&&detour=warp://auto6?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m3#appify8
